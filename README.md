@@ -10,3 +10,4 @@ We determine the covariance matrix and find the dominant eigen vectors. The visu
 All images are taken from the Yale dataset, namely yalefaces.
 
 
+
